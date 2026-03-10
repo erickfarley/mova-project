@@ -1,0 +1,7 @@
+python-dotenv>=1.0.1
+pyserial>=3.5
+SpeechRecognition>=3.10.4
+PySide6>=6.8.0
+requests>=2.32.3
+sounddevice>=0.5.1
+numpy>=2.2.2
